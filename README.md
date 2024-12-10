@@ -34,7 +34,7 @@ Overall, our goal was to demonstrate essential and advanced data handling techni
 - **README.md**: This README file explaining the project structure and key information.  
 - **WellnessTracker.csv**: The original dataset.  
 - **WellnessTracker_Cleaned.csv**: The cleaned and processed version of the dataset.  
-- **data analysis.py**: Python script for performing data analysis and statistical calculations.  
+- **data_analysis.py**: Python script for performing data analysis and statistical calculations.  
 - **dataset.py**: Python script for generating synthetic datasets to simulate real-world data.  
 - **processing_data.py**: Python script for preprocessing the dataset, including cleaning and transforming the data.
 
