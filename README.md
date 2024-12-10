@@ -43,4 +43,4 @@ Overall, our goal was to demonstrate essential and advanced data handling techni
 ## How to Run the Project
 1. Clone this repository to your local machine:
    ```bash
-   git clone <repository_url>
+   git clone https://github.com/DanielTangZhengLi/UIC_Python_Programming_for_Beginners_1002_Group_Project.git
