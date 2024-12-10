@@ -10,7 +10,6 @@ Overall, our goal was to demonstrate essential and advanced data handling techni
 1. **Data Cleaning**  
    - Handled missing values.  
    - Managed outliers in daily steps.  
-   - Standardized numerical data for consistency.
 
 2. **Data Analysis**  
    - Performed statistical calculations such as ratios, median income differences, and custom metrics like **ActivityEfficiency**.  
@@ -36,7 +35,7 @@ Overall, our goal was to demonstrate essential and advanced data handling techni
 - **WellnessTracker_Cleaned.csv**: The cleaned and processed version of the dataset.  
 - **data_analysis.py**: Python script for performing data analysis and statistical calculations.  
 - **dataset.py**: Python script for generating synthetic datasets to simulate real-world data.  
-- **processing_data.py**: Python script for preprocessing the dataset, including cleaning and transforming the data.
+- **processing_data.py**: Python script for preprocessing the dataset.
 
 ---
 
