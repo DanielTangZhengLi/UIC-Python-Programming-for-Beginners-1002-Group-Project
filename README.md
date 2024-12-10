@@ -1,4 +1,4 @@
-# UIC Python Programming for Beginners (1002) Group Project-WellnessTracker Data Analysis Project
+# Group Project-WellnessTracker Data Analysis Project
 ## Project Overview
 Our project showcased the entire data cleaning, analysis, and visualization process using Python. We began by cleaning the **WellnessTracker** dataset by handling missing values, managing outliers in daily steps, and standardizing numerical data. In the analysis phase, we performed various statistical calculations, such as ratios, median income differences, and custom metrics like **ActivityEfficiency** to gain insights into customer behaviors. For visualization, we created several plots, including pie charts, histograms, bar plots, heatmaps, jointplots, and box plots, to effectively illustrate our findings. 
 
